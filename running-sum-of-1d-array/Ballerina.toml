@@ -1,0 +1,8 @@
+[package]
+org = "sameera"
+name = "running_sum_of_1d_array"
+version = "0.1.0"
+distribution = "2201.8.2"
+
+[build-options]
+observabilityIncluded = true
